@@ -4,7 +4,7 @@ import new_collections from "../../assets/new_collections.js";
 
 
 
-import Item from "../Item/Item.jsx";
+import Item from "../Item/Item";
 
 
 
