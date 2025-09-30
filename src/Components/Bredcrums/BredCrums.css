@@ -1,0 +1,18 @@
+.bredcrums {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #5e5e5e;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  gap: 8px;
+  text-transform:capitalize;
+}
+
+.bredcrums img {
+  width: 16px;
+  height: 16px;
+}
